@@ -4,7 +4,10 @@ Implementation of the UDACITY Robotic Software Engineer Project 1
 ## Goal of the Project
 
 This project implements a pick and place algorythm for a KUKA 210 robot arm.
-Key element is to implement the invers kinematic (IK
+Key element is to implement the invers kinematic (IK)
+
+![alt text](images/KUKA+KR210.png "KUKA KR210")
+
 
 
 Insert picture here
