@@ -8,7 +8,7 @@ Key element is to implement the invers kinematic (IK)
 
 
 <img src="images/KUKA+KR210.png" alt="KUKA KR210 (c) by kuka.com"
-	title="KUKA KR210 (c) by kuka.com" width="150" height="100" />
+	title="KUKA KR210 (c) by kuka.com" width="150" height="150" />
 
 
 
